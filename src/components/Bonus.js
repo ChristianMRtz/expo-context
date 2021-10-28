@@ -37,7 +37,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -45,7 +45,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -53,7 +53,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -61,7 +61,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -69,7 +69,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -77,7 +77,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -85,7 +85,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -93,7 +93,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
         <div className="imgdiv">
           <img
@@ -101,7 +101,7 @@ const Bonus = () => {
             className={bonus ? "filter" : "nothing"}
             alt="wannagiveyouup?"
           ></img>
-          {bonus ? <p>Gonna give you up</p> : <p>Never gonna give you up</p>}
+          {bonus ? <p>I'm gonna give you up</p> : <p>Never gonna give you up</p>}
         </div>
       </div>
       <Link to="/">
