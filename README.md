@@ -1,1 +1,1 @@
-# expo-context EXPO CON EL BONUS DE RICK EVIL XD
+# expo-context
